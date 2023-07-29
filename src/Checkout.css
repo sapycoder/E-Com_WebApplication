@@ -1,0 +1,33 @@
+.checkout{
+    display: flex;
+    height: max-content;
+    background-color: white;
+    flex: 0.6;
+}
+
+.checkout_ad{
+    height: 245px;
+    width:100%;
+    flex: 0.6;
+}
+
+.checkout_left{
+    width: 70%;
+}
+.checkout_right{
+    height: 100px;
+    padding-left: 1px;
+    font-size: larger;
+    align-items: center;
+    width: 30%;
+}
+
+.checkout_title{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.checkout_title_email{
+    margin-right: 10px;
+    padding: 10px;
+}
